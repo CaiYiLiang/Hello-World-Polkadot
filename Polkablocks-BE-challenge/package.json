@@ -1,0 +1,16 @@
+{
+  "name": "polkablocks",
+  "version": "1.0.0",
+  "description": "This is the Polkablocks-BE-challenge created by CherryLiang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "https://gitcoin.co/caiyiliang",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
