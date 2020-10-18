@@ -5,7 +5,7 @@
 ##### [BEGINNER CHALLENGES] Set An Identity On Kusama Or Polkadot's Development Version
 
 - Run a local version of Polkadot.
-- Register a test account’s identity with alias email address.
+- Register an account’s identity with email address and website.
 
 ##### Screen
 1.
