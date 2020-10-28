@@ -1,0 +1,23 @@
+{
+  "name": "read-an-accounts-pending-payouts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sidecar:wss": "SAS_SUBSTRATE_WS_URL=wss://kusama-rpc.polkadot.io substrate-api-sidecar",
+    "sidecar:local": "substrate-api-sidecar",
+    "payouts:pending": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hello",
+    "world",
+    "polkadot"
+  ],
+  "author": "CherryLiang@github.io",
+  "license": "ISC",
+  "dependencies": {
+    "@substrate/api-sidecar": "^1.0.0",
+    "got": "^11.8.0"
+  }
+}
