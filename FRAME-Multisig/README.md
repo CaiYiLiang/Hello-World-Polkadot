@@ -9,13 +9,13 @@
 
 made a multisig transaction from multisig account to FRIEND with 50 amount
 
-![Polkadot-JS-Multisig!](/imgs/Multisig-acc-PolkadotJS.jpg)
+![Polkadot-JS-Multisig!](/assets/Multisig-acc-PolkadotJS.jpg)
 
-![Polkadot-JS-Multisig!](/imgs/Multisig-tx-01-PolkadotJS.jpg)
+![Polkadot-JS-Multisig!](/assets/Multisig-tx-01-PolkadotJS.jpg)
 
-![Polkadot-JS-Multisig!](/imgs/Multisig-tx-3-PolkadotJS.jpg)
+![Polkadot-JS-Multisig!](/assets/Multisig-tx-3-PolkadotJS.jpg)
 
-![Polkadot-JS-Multisig!](/imgs/Multisig-acc-2-PolkadotJS.jpg)
+![Polkadot-JS-Multisig!](/assets/Multisig-acc-2-PolkadotJS.jpg)
 
 
 ---
@@ -23,9 +23,9 @@ made a multisig transaction from multisig account to FRIEND with 50 amount
   
 A multisig UI component
 
-![FE-Template-Multisig!](/imgs/Multisig-FE-Template.jpg)
+![FE-Template-Multisig!](/assets/Multisig-FE-Template.jpg)
 
-![FE-Template-Multisig!](/imgs/Multisig-FE-Template-01.jpg)
+![FE-Template-Multisig!](/assets/Multisig-FE-Template-01.jpg)
 
 
 ---
