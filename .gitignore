@@ -2,3 +2,13 @@
 
 node_modules
 **/yarn.lock
+
+**/target/
+
+**/*.rs.bk
+
+.DS_Store
+
+.cargo
+
+.local
